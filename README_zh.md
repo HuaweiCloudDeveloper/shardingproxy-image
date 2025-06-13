@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Shardingproxy 数据库代理</h1>
   <p align="center">
-    <a href="README.md"><strong>English</strong></a> | <strong>简体中文</strong>
+    <a href="README.md"><strong>English</strong></a> | <a href="README_zh.md"><strong>简体中文</strong></a>
   </p>
 </p>
 
@@ -46,7 +46,7 @@ ShardingProxy 的核心特性包括：
 
 | 镜像规格                                                                                                                                              | 特性说明 | 备注 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------| --- | --- |
-| [shardingproxy5.5.2](https://marketplace.huaweicloud.com/hidden/contents/9e9217e1-5c9d-4026-96bd-b3395d0c9aa8#productid=OFFI1131118959554052096) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [shardingproxy5.5.2](https://github.com/HuaweiCloudDeveloper/shardingproxy-image/tree/shardingproxy5.5.2-arm-v1.0) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/shardingproxy-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系

@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">ShardingProxy Database Proxy</h1>
   <p align="center">
-    <a href="README.md"><strong>English</strong></a> | <strong>简体中文</strong>
+    <a href="README.md"><strong>English</strong></a> | <a href="README_zh.md"><strong>简体中文</strong></a>
   </p>
 </p>
 
@@ -46,7 +46,7 @@ This project offers an open-source image product [**`ShardingProxy Database Prox
 
 | Image Specification                                                                                                                                              | Features | Notes |
 |---------------------------------------------------------------------------------------------------------------------------------------------------| --- | --- |
-| [shardingproxy5.5.2](https://marketplace.huaweicloud.com/hidden/contents/9e9217e1-5c9d-4026-96bd-b3395d0c9aa8#productid=OFFI1131118959554052096) | Deployed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64bit |  |
+| [shardingproxy5.5.2](https://github.com/HuaweiCloudDeveloper/shardingproxy-image/tree/shardingproxy5.5.2-arm-v1.0) | Deployed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
 - For issues, submit an [issue](https://github.com/HuaweiCloudDeveloper/shardingproxy-image/issues) or contact Huawei Cloud Marketplace support for the specified product.
